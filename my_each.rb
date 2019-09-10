@@ -1,5 +1,5 @@
 def my_each(array)
-  while true
+  while false
 
   end
 end
